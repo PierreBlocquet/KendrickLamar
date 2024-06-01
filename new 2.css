@@ -1,0 +1,73 @@
+body.green {
+    background-color: #6C8855;
+    color: black;
+}
+body.black {
+    background-color: black;
+    color: white;
+}
+body.white {
+    background-color: white;
+    color: black;
+}
+img {
+    width: 250px;
+}
+h1 {
+    text-align: center;
+    color: black;
+    background-color: #7FA165;
+    border-style: inset;
+    border-color: #72905A;
+}
+body.black h1 {
+    color: white;
+	background-color: black;
+	border-color: gray
+}
+body.white h1 {
+    color: black;
+	background-color: white;
+	border-color: gray
+}
+h2 {
+    text-align: left;
+    color: black;
+    background-color: #7FA165;
+}
+body.black h2 {
+    color: white;
+	background-color: black
+}
+
+body.white h2 {
+    color: white;
+	background-color: white
+}
+p {
+    background-color: #7FA165;
+}
+body.black p {
+    color: white;
+	background-color: black
+}
+
+body.white p {
+    color: black;
+	background-color: white
+}
+a {
+    width: 20%;
+    border: 1px solid #698652;
+    background-color: #72905A;
+    color: white;
+    padding: 10px;
+}
+body.white a {
+    color: black;
+	background-color: white;
+}
+body.black a {
+    color: white;
+	background-color: black
+}

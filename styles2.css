@@ -1,0 +1,90 @@
+body.green {
+    background-color: #281200; /* Marron très foncé */
+    color: black; /* Texte en noir */
+}
+body.black {
+    background-color: #1A1A1A; /* Noir presque pur */
+    color: #F5F5F5; /* Blanc cassé */
+}
+body.white {
+    background-color: #F5F5F5; /* Blanc cassé */
+    color: black; /* Texte en noir */
+}
+img {
+    width: 250px;
+}
+h1 {
+    text-align: center;
+    color: black; /* Texte en noir */
+    background-color: #3B1A00; /* Marron foncé */
+    border-style: inset;
+    border-color: #1A0C00; /* Marron très foncé */
+}
+body.black h1 {
+    color: #F5F5F5; /* Blanc cassé */
+    background-color: #1A1A1A; /* Noir presque pur */
+    border-color: #4F4F4F; /* Gris moyen */
+}
+body.white h1 {
+    color: black; /* Texte en noir */
+    background-color: #F5F5F5; /* Blanc cassé */
+    border-color: #CCCCCC; /* Gris clair */
+}
+body.green h1 {
+    color: black; /* Texte en noir */
+    background-color: #3B1A00; /* Marron foncé */
+    border-color: #1A0C00; /* Marron très foncé */
+}
+h3 {
+    text-align: left;
+    color: black; /* Texte en noir */
+    background-color: #3B1A00; /* Marron foncé */
+}
+body.black h3 {
+    color: #F5F5F5; /* Blanc cassé */
+    background-color: #1A1A1A; /* Noir presque pur */
+}
+body.white h3 {
+    color: black; /* Texte en noir */
+    background-color: #F5F5F5; /* Blanc cassé */
+}
+body.green h3 {
+    color: black; /* Texte en noir */
+    background-color: #3B1A00; /* Marron foncé */
+}
+p {
+    background-color: #3B1A00; /* Marron foncé */
+    color: black; /* Texte en noir */
+}
+body.black p {
+    color: #F5F5F5; /* Blanc cassé */
+    background-color: #1A1A1A; /* Noir presque pur */
+}
+body.white p {
+    color: black; /* Texte en noir */
+    background-color: #F5F5F5; /* Blanc cassé */
+}
+body.green p {
+    background-color: #3B1A00; /* Marron foncé */
+    color: black; /* Texte en noir */
+}
+a {
+    width: 20%;
+    border: 1px solid #2A0D00; /* Marron très foncé */
+    background-color: #3B1A00; /* Marron foncé */
+    color: black; /* Texte en noir */
+    padding: 10px;
+}
+body.white a {
+    color: black; /* Texte en noir */
+    background-color: #F5F5F5; /* Blanc cassé */
+}
+body.black a {
+    color: #F5F5F5; /* Blanc cassé */
+    background-color: #1A1A1A; /* Noir presque pur */
+}
+body.green a {
+    color: black; /* Texte en noir */
+    background-color: #3B1A00; /* Marron foncé */
+    border-color: #2A0D00; /* Marron très foncé */
+}

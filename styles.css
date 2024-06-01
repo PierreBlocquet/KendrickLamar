@@ -1,0 +1,72 @@
+body.green {
+    background-color: #415125; /* Fond légèrement moins sombre que les titres */
+    color: black;
+}
+body.black {
+    background-color: black;
+    color: white;
+}
+body.white {
+    background-color: white;
+    color: black;
+}
+img {
+    width: 250px;
+}
+h1 {
+    text-align: center;
+    color: black;
+    background-color: #384620; /* Couleur inchangée pour les titres */
+    border-style: inset;
+    border-color: #384620;
+}
+body.black h1 {
+    color: white;
+    background-color: black;
+    border-color: gray;
+}
+body.white h1 {
+    color: black;
+    background-color: white;
+    border-color: gray;
+}
+h2 {
+    text-align: left;
+    color: black;
+    background-color: #384620; /* Couleur inchangée pour les titres */
+}
+body.black h2 {
+    color: white;
+    background-color: black;
+}
+body.white h2 {
+    color: black;
+    background-color: white;
+}
+p {
+    background-color: #384620; /* Ajusté pour correspondre au changement */
+    color: black;
+}
+body.black p {
+    color: white;
+    background-color: black;
+}
+body.white p {
+    color: black;
+    background-color: white;
+}
+a {
+    width: 20%;
+    border: 1px solid #698652;
+    background-color: #53682F;
+    color: black;
+    padding: 10px;
+}
+body.white a {
+    color: black;
+    background-color: white;
+}
+body.black a {
+    color: white;
+    background-color: black;
+}
